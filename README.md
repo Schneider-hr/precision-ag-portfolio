@@ -1,6 +1,6 @@
 # Precision Agriculture IoT Platform (portfolio)
 
-**Schneider Appiah Agyare** · Cybersecurity student · IoT, embedded systems, networking
+**Appiah Schneider Agyare** · Cybersecurity student · IoT, embedded systems, networking
 
 A low-power, long-range precision-agriculture system built from three custom PCBs, ESP32 firmware, a FastAPI backend and a React web app. This repository is the public write-up: diagrams, design renders, results and lessons learned. The source code, PCB manufacturing files and bills of materials are kept in private repositories.
 
@@ -41,4 +41,4 @@ Mensah, P. K. et al., "Dataset for Crop Pest and Disease Detection", Mendeley Da
 
 ## Rights
 
-Copyright Schneider Appiah Agyare. All rights reserved unless a licence is added to this repository.
+Copyright Appiah Schneider Agyare. All rights reserved unless a licence is added to this repository.

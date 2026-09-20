@@ -1,6 +1,6 @@
 # Precision Agriculture IoT System: Case Study
 
-**Schneider Appiah Agyare** · Cybersecurity student · IoT, embedded systems, networking
+**Appiah Schneider Agyare** · Cybersecurity student · IoT, embedded systems, networking
 
 **Where the project stands:** three custom PCBs are fabricated; hardware bring-up and field testing have not happened yet. The software runs on demo data. This case study separates what is designed, implemented and tested from what is still to do.
 
